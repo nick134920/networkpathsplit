@@ -2016,7 +2016,7 @@ add list=CN address=116.130.0.0/15 comment=AS4809
 add list=CN address=116.132.0.0/15 comment=AS4809
 add list=CN address=116.135.0.0/16 comment=AS4809
 add list=CN address=116.136.0.0/13 comment=AS4809
-add list=CN address=116.147.0.0/16 comment=AS4809
+add list=CN address=116.146.0.0/15 comment=AS4809
 add list=CN address=116.148.0.0/15 comment=AS4809
 add list=CN address=116.153.0.0/16 comment=AS4809
 add list=CN address=116.154.0.0/15 comment=AS4809
