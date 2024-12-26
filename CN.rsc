@@ -1239,6 +1239,7 @@ add list=CN address=103.123.4.0/23 comment=AS4809
 add list=CN address=103.126.1.0/24 comment=AS4809
 add list=CN address=103.126.124.0/22 comment=AS4809
 add list=CN address=103.126.208.0/22 comment=AS4809
+add list=CN address=103.127.219.0/24 comment=AS4809
 add list=CN address=103.131.138.0/23 comment=AS4809
 add list=CN address=103.131.152.0/22 comment=AS4809
 add list=CN address=103.131.168.0/22 comment=AS4809
@@ -2906,6 +2907,7 @@ add list=CN address=154.205.88.0/21 comment=AS4809
 add list=CN address=154.205.96.0/20 comment=AS4809
 add list=CN address=154.205.112.0/21 comment=AS4809
 add list=CN address=154.205.124.0/22 comment=AS4809
+add list=CN address=154.223.96.0/19 comment=AS4809
 add list=CN address=155.126.176.0/23 comment=AS4809
 add list=CN address=156.0.92.0/22 comment=AS4809
 add list=CN address=156.107.160.0/24 comment=AS4809
@@ -2921,7 +2923,7 @@ add list=CN address=156.227.48.0/20 comment=AS4809
 add list=CN address=156.232.9.0/24 comment=AS4809
 add list=CN address=156.232.10.0/23 comment=AS4809
 add list=CN address=156.239.0.0/20 comment=AS4809
-add list=CN address=156.239.96.0/19 comment=AS4809
+add list=CN address=156.239.64.0/18 comment=AS4809
 add list=CN address=156.247.8.0/22 comment=AS4809
 add list=CN address=156.247.12.0/23 comment=AS4809
 add list=CN address=156.247.14.0/24 comment=AS4809
