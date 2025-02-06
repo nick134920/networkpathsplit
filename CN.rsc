@@ -2813,7 +2813,6 @@ add list=CN address=149.50.90.0/24 comment=AS4809
 add list=CN address=149.87.239.0/24 comment=AS4809
 add list=CN address=149.87.240.0/23 comment=AS4809
 add list=CN address=149.87.242.0/24 comment=AS4809
-add list=CN address=149.104.169.0/24 comment=AS4809
 add list=CN address=149.115.227.0/24 comment=AS4809
 add list=CN address=149.115.228.0/24 comment=AS4809
 add list=CN address=149.115.233.0/24 comment=AS4809
