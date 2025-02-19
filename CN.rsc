@@ -1223,8 +1223,6 @@ add list=CN address=103.115.120.0/24 comment=AS4809
 add list=CN address=103.115.248.0/22 comment=AS4809
 add list=CN address=103.116.76.0/22 comment=AS4809
 add list=CN address=103.116.92.0/22 comment=AS4809
-add list=CN address=103.116.120.0/23 comment=AS4809
-add list=CN address=103.116.123.0/24 comment=AS4809
 add list=CN address=103.116.138.0/23 comment=AS4809
 add list=CN address=103.117.16.0/22 comment=AS4809
 add list=CN address=103.118.52.0/22 comment=AS4809
