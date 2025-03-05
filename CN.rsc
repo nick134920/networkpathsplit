@@ -2694,7 +2694,10 @@ add list=CN address=131.228.96.0/23 comment=AS4809
 add list=CN address=132.232.0.0/16 comment=AS4809
 add list=CN address=132.237.134.0/24 comment=AS4809
 add list=CN address=133.226.32.0/20 comment=AS4809
-add list=CN address=134.122.136.0/21 comment=AS4809
+add list=CN address=134.122.136.0/24 comment=AS4809
+add list=CN address=134.122.138.0/23 comment=AS4809
+add list=CN address=134.122.140.0/23 comment=AS4809
+add list=CN address=134.122.142.0/24 comment=AS4809
 add list=CN address=134.122.144.0/20 comment=AS4809
 add list=CN address=134.122.160.0/19 comment=AS4809
 add list=CN address=134.122.192.0/18 comment=AS4809
