@@ -10,7 +10,18 @@ ip段信息取自 [misakaio](https://github.com/misakaio/chnroutes2)
 /file remove [find name="CN.rsc"]
 /tool fetch url="https://cdn.jsdelivr.net/gh/GitHubd3b7c/chnroute@main/CN.rsc"
 :if ([:len [/file find name=CN.rsc]] > 0) do={
-/ip firewall address-list remove [find comment="AS4809"]
+/ip firewall address-list remove [find list="CN"]
+/import CN.rsc
+}
+```
+
+Routeros Schedule
+7d 00:00:00
+```shell
+/file remove [find name="CN.rsc"]
+/tool fetch url="https://raw.githubusercontent.com/nick134920/networkpathsplit/main/CN.rsc"
+:if ([:len [/file find name=CN.rsc]] > 0) do={
+/ip firewall address-list remove [find list="CN"]
 /import CN.rsc
 }
 ```
