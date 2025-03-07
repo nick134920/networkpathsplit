@@ -2,7 +2,7 @@
 mkdir -p ./pbr
 cd ./pbr
 
-wget --no-check-certificate -c -O CN.txt https://metowolf.github.io/iplist/data/special/china.txt
+wget --no-check-certificate -c -O CN.txt https://raw.githubusercontent.com/mayaxcn/china-ip-list/master/chnroute.txt
 
 echo "" >> CN.txt
 
