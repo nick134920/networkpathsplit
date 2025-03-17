@@ -4733,6 +4733,7 @@ add list=CN address=163.142.0.0/16
 add list=CN address=163.177.0.0/16
 add list=CN address=163.179.0.0/16
 add list=CN address=163.204.0.0/16
+add list=CN address=163.223.124.0/23
 add list=CN address=163.223.28.0/23
 add list=CN address=163.223.32.0/23
 add list=CN address=163.223.68.0/23
