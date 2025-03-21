@@ -3940,6 +3940,7 @@ add list=CN address=118.31.0.0/17
 add list=CN address=118.31.128.0/17
 add list=CN address=118.31.200.0/24
 add list=CN address=118.31.201.0/24
+add list=CN address=118.31.206.0/24
 add list=CN address=118.64.0.0/15
 add list=CN address=118.66.0.0/16
 add list=CN address=118.67.112.0/20
@@ -9237,6 +9238,7 @@ add list=CN address=8.152.0.0/16
 add list=CN address=8.152.0.0/17
 add list=CN address=8.152.128.0/17
 add list=CN address=8.152.180.0/24
+add list=CN address=8.152.181.0/24
 add list=CN address=8.152.75.0/24
 add list=CN address=8.153.0.0/16
 add list=CN address=8.153.0.0/17
