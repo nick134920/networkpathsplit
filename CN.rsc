@@ -7355,6 +7355,7 @@ add list=CN address=39.0.8.0/21
 add list=CN address=39.100.0.0/14
 add list=CN address=39.104.0.0/14
 add list=CN address=39.104.0.0/15
+add list=CN address=39.105.32.0/20
 add list=CN address=39.106.0.0/15
 add list=CN address=39.108.0.0/16
 add list=CN address=39.108.0.0/17
