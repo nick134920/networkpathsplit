@@ -5788,11 +5788,7 @@ add list=CN address=203.107.82.0/24
 add list=CN address=203.107.83.0/24
 add list=CN address=203.107.84.0/22
 add list=CN address=203.107.84.0/23
-add list=CN address=203.107.84.0/24
-add list=CN address=203.107.85.0/24
 add list=CN address=203.107.86.0/23
-add list=CN address=203.107.86.0/24
-add list=CN address=203.107.87.0/24
 add list=CN address=203.107.96.0/23
 add list=CN address=203.11.100.0/22
 add list=CN address=203.11.109.0/24
