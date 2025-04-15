@@ -351,7 +351,6 @@ add list=CN address=103.116.64.0/22
 add list=CN address=103.116.72.0/22
 add list=CN address=103.116.76.0/22
 add list=CN address=103.116.92.0/22
-add list=CN address=103.117.136.0/22
 add list=CN address=103.117.16.0/22
 add list=CN address=103.117.188.0/22
 add list=CN address=103.117.220.0/22
