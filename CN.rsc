@@ -9181,6 +9181,9 @@ add list=CN address=71.132.0.0/18
 add list=CN address=71.136.64.0/18
 add list=CN address=71.137.0.0/18
 add list=CN address=8.128.100.0/22
+add list=CN address=8.128.104.0/21
+add list=CN address=8.128.104.0/22
+add list=CN address=8.128.108.0/22
 add list=CN address=8.128.32.0/19
 add list=CN address=8.128.32.0/20
 add list=CN address=8.128.48.0/20
