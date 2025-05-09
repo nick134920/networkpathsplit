@@ -9020,6 +9020,9 @@ add list=CN address=59.80.0.0/15
 add list=CN address=59.82.0.0/15
 add list=CN address=59.82.0.0/21
 add list=CN address=59.82.0.0/22
+add list=CN address=59.82.100.0/22
+add list=CN address=59.82.100.0/23
+add list=CN address=59.82.102.0/23
 add list=CN address=59.82.104.0/21
 add list=CN address=59.82.104.0/22
 add list=CN address=59.82.108.0/22
@@ -9347,6 +9350,9 @@ add list=CN address=8.161.0.0/16
 add list=CN address=8.162.0.0/19
 add list=CN address=8.162.0.0/20
 add list=CN address=8.162.16.0/20
+add list=CN address=8.163.0.0/16
+add list=CN address=8.163.0.0/17
+add list=CN address=8.163.128.0/17
 add list=CN address=81.68.0.0/14
 add list=CN address=82.156.0.0/15
 add list=CN address=94.191.0.0/17
