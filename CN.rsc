@@ -9291,8 +9291,11 @@ add list=CN address=8.148.32.0/24
 add list=CN address=8.148.33.0/24
 add list=CN address=8.148.34.0/24
 add list=CN address=8.148.35.0/24
+add list=CN address=8.148.36.0/24
+add list=CN address=8.148.38.0/24
 add list=CN address=8.148.39.0/24
 add list=CN address=8.148.40.0/24
+add list=CN address=8.148.41.0/24
 add list=CN address=8.148.42.0/24
 add list=CN address=8.148.64.0/19
 add list=CN address=8.148.64.0/20
