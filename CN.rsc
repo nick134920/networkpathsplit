@@ -8875,9 +8875,7 @@ add list=CN address=47.94.0.0/15
 add list=CN address=47.96.0.0/11
 add list=CN address=47.96.0.0/14
 add list=CN address=47.96.0.0/15
-add list=CN address=47.96.0.0/16
 add list=CN address=47.96.204.0/24
-add list=CN address=47.97.0.0/16
 add list=CN address=47.98.0.0/15
 add list=CN address=49.112.0.0/13
 add list=CN address=49.120.0.0/14
