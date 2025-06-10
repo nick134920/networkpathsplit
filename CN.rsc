@@ -3313,7 +3313,6 @@ add list=CN address=103.97.64.0/22
 add list=CN address=103.97.68.0/22
 add list=CN address=103.97.72.0/22
 add list=CN address=103.97.8.0/22
-add list=CN address=103.97.80.0/22
 add list=CN address=103.98.0.0/23
 add list=CN address=103.98.100.0/22
 add list=CN address=103.98.124.0/22
@@ -4294,7 +4293,6 @@ add list=CN address=123.242.192.0/22
 add list=CN address=123.242.196.0/22
 add list=CN address=123.244.0.0/14
 add list=CN address=123.249.0.0/16
-add list=CN address=123.253.240.0/22
 add list=CN address=123.254.100.0/22
 add list=CN address=123.254.96.0/22
 add list=CN address=123.4.0.0/14
