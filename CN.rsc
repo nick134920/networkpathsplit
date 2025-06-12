@@ -5723,6 +5723,9 @@ add list=CN address=203.107.106.0/24
 add list=CN address=203.107.107.0/24
 add list=CN address=203.107.108.0/24
 add list=CN address=203.107.109.0/24
+add list=CN address=203.107.116.0/22
+add list=CN address=203.107.116.0/23
+add list=CN address=203.107.118.0/23
 add list=CN address=203.107.13.0/24
 add list=CN address=203.107.20.0/24
 add list=CN address=203.107.21.0/24
