@@ -3122,7 +3122,6 @@ add list=CN address=103.86.252.0/22
 add list=CN address=103.86.28.0/22
 add list=CN address=103.86.32.0/22
 add list=CN address=103.86.60.0/22
-add list=CN address=103.86.80.0/22
 add list=CN address=103.86.84.0/22
 add list=CN address=103.87.0.0/22
 add list=CN address=103.87.132.0/22
@@ -4792,6 +4791,8 @@ add list=CN address=163.61.214.0/23
 add list=CN address=163.61.62.0/23
 add list=CN address=164.52.0.0/17
 add list=CN address=165.101.4.0/23
+add list=CN address=165.101.66.0/23
+add list=CN address=165.101.70.0/23
 add list=CN address=165.99.4.0/24
 add list=CN address=165.99.42.0/23
 add list=CN address=166.111.0.0/16
