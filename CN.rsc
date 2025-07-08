@@ -9272,6 +9272,9 @@ add list=CN address=8.150.16.0/22
 add list=CN address=8.150.16.0/23
 add list=CN address=8.150.18.0/23
 add list=CN address=8.150.2.0/23
+add list=CN address=8.150.20.0/22
+add list=CN address=8.150.20.0/23
+add list=CN address=8.150.22.0/23
 add list=CN address=8.150.4.0/22
 add list=CN address=8.150.4.0/23
 add list=CN address=8.150.6.0/23
