@@ -5523,7 +5523,6 @@ add list=CN address=202.79.224.0/21
 add list=CN address=202.79.248.0/22
 add list=CN address=202.8.0.0/24
 add list=CN address=202.8.12.0/24
-add list=CN address=202.8.120.0/22
 add list=CN address=202.8.128.0/19
 add list=CN address=202.8.192.0/20
 add list=CN address=202.8.2.0/23
