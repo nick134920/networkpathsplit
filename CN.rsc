@@ -8253,6 +8253,7 @@ add list=CN address=45.115.132.0/22
 add list=CN address=45.115.144.0/22
 add list=CN address=45.115.156.0/22
 add list=CN address=45.115.164.0/22
+add list=CN address=45.115.18.0/23
 add list=CN address=45.115.200.0/22
 add list=CN address=45.115.212.0/22
 add list=CN address=45.115.228.0/22
