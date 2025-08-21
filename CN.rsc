@@ -8983,6 +8983,7 @@ add list=CN address=59.82.124.0/24
 add list=CN address=59.82.128.0/21
 add list=CN address=59.82.128.0/22
 add list=CN address=59.82.132.0/22
+add list=CN address=59.82.136.0/21
 add list=CN address=59.82.136.0/23
 add list=CN address=59.82.16.0/20
 add list=CN address=59.82.16.0/21
@@ -9182,6 +9183,7 @@ add list=CN address=8.133.0.0/16
 add list=CN address=8.134.0.0/16
 add list=CN address=8.134.0.0/17
 add list=CN address=8.134.128.0/17
+add list=CN address=8.134.240.0/21
 add list=CN address=8.134.240.0/23
 add list=CN address=8.134.242.0/23
 add list=CN address=8.134.244.0/23
