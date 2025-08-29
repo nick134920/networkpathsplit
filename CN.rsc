@@ -5447,6 +5447,7 @@ add list=CN address=202.6.108.0/24
 add list=CN address=202.6.110.0/23
 add list=CN address=202.6.114.0/24
 add list=CN address=202.6.176.0/20
+add list=CN address=202.6.202.0/23
 add list=CN address=202.6.6.0/23
 add list=CN address=202.6.66.0/23
 add list=CN address=202.6.72.0/23
