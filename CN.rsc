@@ -9240,6 +9240,13 @@ add list=CN address=8.148.128.0/18
 add list=CN address=8.148.16.0/20
 add list=CN address=8.148.169.0/24
 add list=CN address=8.148.192.0/18
+add list=CN address=8.148.36.0/24
+add list=CN address=8.148.37.0/24
+add list=CN address=8.148.38.0/24
+add list=CN address=8.148.39.0/24
+add list=CN address=8.148.40.0/24
+add list=CN address=8.148.41.0/24
+add list=CN address=8.148.43.0/24
 add list=CN address=8.148.64.0/19
 add list=CN address=8.148.64.0/20
 add list=CN address=8.148.80.0/20
