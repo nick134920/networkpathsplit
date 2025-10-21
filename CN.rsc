@@ -571,7 +571,6 @@ add list=CN address=103.145.190.0/23
 add list=CN address=103.145.38.0/23
 add list=CN address=103.145.42.0/23
 add list=CN address=103.145.60.0/23
-add list=CN address=103.145.72.0/23
 add list=CN address=103.145.86.0/23
 add list=CN address=103.145.92.0/23
 add list=CN address=103.145.94.0/23
@@ -4431,6 +4430,8 @@ add list=CN address=132.232.0.0/16
 add list=CN address=134.175.0.0/16
 add list=CN address=137.59.59.0/24
 add list=CN address=137.59.88.0/22
+add list=CN address=138.252.72.0/23
+add list=CN address=138.252.78.0/23
 add list=CN address=139.129.0.0/16
 add list=CN address=139.129.0.0/17
 add list=CN address=139.129.128.0/17
