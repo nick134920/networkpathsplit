@@ -7239,12 +7239,10 @@ add list=CN address=223.4.128.0/17
 add list=CN address=223.5.0.0/16
 add list=CN address=223.5.0.0/17
 add list=CN address=223.5.128.0/17
-add list=CN address=223.5.5.0/24
 add list=CN address=223.6.0.0/15
 add list=CN address=223.6.0.0/16
 add list=CN address=223.6.0.0/17
 add list=CN address=223.6.128.0/17
-add list=CN address=223.6.6.0/24
 add list=CN address=223.64.0.0/11
 add list=CN address=223.8.0.0/13
 add list=CN address=223.96.0.0/12
