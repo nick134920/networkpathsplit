@@ -662,7 +662,6 @@ add list=CN address=103.154.162.0/23
 add list=CN address=103.154.164.0/23
 add list=CN address=103.154.168.0/23
 add list=CN address=103.154.18.0/23
-add list=CN address=103.154.242.0/23
 add list=CN address=103.154.30.0/23
 add list=CN address=103.154.32.0/23
 add list=CN address=103.154.40.0/23
