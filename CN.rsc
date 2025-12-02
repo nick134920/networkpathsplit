@@ -4534,6 +4534,7 @@ add list=CN address=144.79.10.0/23
 add list=CN address=144.79.28.0/23
 add list=CN address=144.79.4.0/23
 add list=CN address=144.79.42.0/23
+add list=CN address=144.79.54.0/23
 add list=CN address=146.196.112.0/22
 add list=CN address=146.196.116.0/22
 add list=CN address=146.196.124.0/22
