@@ -670,7 +670,6 @@ add list=CN address=103.154.66.0/23
 add list=CN address=103.155.100.0/23
 add list=CN address=103.155.110.0/23
 add list=CN address=103.155.14.0/23
-add list=CN address=103.155.16.0/23
 add list=CN address=103.155.214.0/23
 add list=CN address=103.155.248.0/23
 add list=CN address=103.155.34.0/23
@@ -701,7 +700,6 @@ add list=CN address=103.159.122.0/23
 add list=CN address=103.159.124.0/23
 add list=CN address=103.159.134.0/23
 add list=CN address=103.159.142.0/23
-add list=CN address=103.159.80.0/23
 add list=CN address=103.16.108.0/22
 add list=CN address=103.16.124.0/22
 add list=CN address=103.16.52.0/22
