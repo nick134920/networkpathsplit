@@ -3362,6 +3362,7 @@ add list=CN address=106.11.208.0/21
 add list=CN address=106.11.216.0/21
 add list=CN address=106.11.224.0/19
 add list=CN address=106.11.235.0/24
+add list=CN address=106.11.24.0/24
 add list=CN address=106.11.32.0/22
 add list=CN address=106.11.36.0/22
 add list=CN address=106.11.40.0/21
