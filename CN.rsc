@@ -3457,9 +3457,7 @@ add list=CN address=110.76.192.0/18
 add list=CN address=110.76.2.0/23
 add list=CN address=110.76.2.0/24
 add list=CN address=110.76.20.0/24
-add list=CN address=110.76.21.0/24
 add list=CN address=110.76.22.0/24
-add list=CN address=110.76.23.0/24
 add list=CN address=110.76.24.0/24
 add list=CN address=110.76.26.0/24
 add list=CN address=110.76.27.0/24
