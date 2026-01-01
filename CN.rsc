@@ -4127,7 +4127,6 @@ add list=CN address=120.76.0.0/15
 add list=CN address=120.76.0.0/16
 add list=CN address=120.76.0.0/17
 add list=CN address=120.76.128.0/17
-add list=CN address=120.76.37.0/24
 add list=CN address=120.77.0.0/16
 add list=CN address=120.77.0.0/17
 add list=CN address=120.77.128.0/17
