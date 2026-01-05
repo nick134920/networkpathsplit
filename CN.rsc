@@ -4359,8 +4359,14 @@ add list=CN address=124.117.0.0/16
 add list=CN address=124.118.0.0/15
 add list=CN address=124.126.0.0/15
 add list=CN address=124.128.0.0/13
-add list=CN address=124.14.0.0/18
+add list=CN address=124.14.0.0/20
 add list=CN address=124.14.128.0/17
+add list=CN address=124.14.16.0/21
+add list=CN address=124.14.24.0/21
+add list=CN address=124.14.32.0/20
+add list=CN address=124.14.48.0/22
+add list=CN address=124.14.52.0/22
+add list=CN address=124.14.56.0/21
 add list=CN address=124.14.64.0/18
 add list=CN address=124.147.128.0/17
 add list=CN address=124.15.0.0/16
