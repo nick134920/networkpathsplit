@@ -7414,8 +7414,6 @@ add list=CN address=39.128.0.0/10
 add list=CN address=39.64.0.0/11
 add list=CN address=39.96.0.0/13
 add list=CN address=39.96.0.0/14
-add list=CN address=39.97.206.0/24
-add list=CN address=39.97.207.0/24
 add list=CN address=40.125.128.0/17
 add list=CN address=40.126.64.0/18
 add list=CN address=40.162.0.0/16
