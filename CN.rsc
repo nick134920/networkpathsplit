@@ -4650,6 +4650,7 @@ add list=CN address=150.242.92.0/22
 add list=CN address=150.242.96.0/22
 add list=CN address=150.248.0.0/16
 add list=CN address=150.255.0.0/16
+add list=CN address=151.158.14.0/23
 add list=CN address=152.104.128.0/17
 add list=CN address=152.136.0.0/16
 add list=CN address=153.0.0.0/16
