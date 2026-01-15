@@ -1610,7 +1610,6 @@ add list=CN address=103.23.56.0/22
 add list=CN address=103.23.8.0/22
 add list=CN address=103.230.0.0/22
 add list=CN address=103.230.110.0/23
-add list=CN address=103.230.128.0/23
 add list=CN address=103.230.196.0/22
 add list=CN address=103.230.200.0/22
 add list=CN address=103.230.204.0/22
