@@ -9321,7 +9321,6 @@ add list=CN address=8.138.128.0/17
 add list=CN address=8.138.54.0/24
 add list=CN address=8.138.69.0/24
 add list=CN address=8.138.70.0/24
-add list=CN address=8.138.71.0/24
 add list=CN address=8.139.0.0/16
 add list=CN address=8.139.0.0/17
 add list=CN address=8.139.128.0/17
