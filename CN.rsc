@@ -4570,7 +4570,6 @@ add list=CN address=140.249.0.0/16
 add list=CN address=140.250.0.0/16
 add list=CN address=140.255.0.0/16
 add list=CN address=140.75.0.0/16
-add list=CN address=142.70.0.0/16
 add list=CN address=142.86.0.0/16
 add list=CN address=143.64.0.0/16
 add list=CN address=144.0.0.0/16
@@ -7538,7 +7537,8 @@ add list=CN address=42.99.120.0/21
 add list=CN address=42.99.64.0/19
 add list=CN address=42.99.96.0/20
 add list=CN address=43.136.0.0/13
-add list=CN address=43.144.0.0/13
+add list=CN address=43.144.0.0/15
+add list=CN address=43.148.0.0/14
 add list=CN address=43.176.0.0/12
 add list=CN address=43.192.0.0/15
 add list=CN address=43.194.0.0/16
