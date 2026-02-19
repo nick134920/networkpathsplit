@@ -680,7 +680,6 @@ add list=CN address=103.156.228.0/23
 add list=CN address=103.156.28.0/23
 add list=CN address=103.156.68.0/23
 add list=CN address=103.156.78.0/23
-add list=CN address=103.157.138.0/23
 add list=CN address=103.157.174.0/23
 add list=CN address=103.157.212.0/23
 add list=CN address=103.157.234.0/23
@@ -4762,7 +4761,6 @@ add list=CN address=160.25.20.0/23
 add list=CN address=160.250.102.0/23
 add list=CN address=160.250.104.0/23
 add list=CN address=160.250.14.0/23
-add list=CN address=160.250.140.0/24
 add list=CN address=160.250.16.0/23
 add list=CN address=160.250.160.0/23
 add list=CN address=160.250.170.0/23
