@@ -9087,6 +9087,9 @@ add list=CN address=59.82.136.0/23
 add list=CN address=59.82.144.0/21
 add list=CN address=59.82.144.0/22
 add list=CN address=59.82.148.0/22
+add list=CN address=59.82.152.0/21
+add list=CN address=59.82.152.0/22
+add list=CN address=59.82.156.0/22
 add list=CN address=59.82.16.0/20
 add list=CN address=59.82.16.0/21
 add list=CN address=59.82.2.0/24
