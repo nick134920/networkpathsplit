@@ -2805,7 +2805,6 @@ add list=CN address=103.65.172.0/22
 add list=CN address=103.65.204.0/23
 add list=CN address=103.65.206.0/23
 add list=CN address=103.65.224.0/23
-add list=CN address=103.65.36.0/22
 add list=CN address=103.65.4.0/22
 add list=CN address=103.65.48.0/22
 add list=CN address=103.65.52.0/22
@@ -8778,7 +8777,6 @@ add list=CN address=45.255.112.0/22
 add list=CN address=45.255.116.0/22
 add list=CN address=45.255.12.0/22
 add list=CN address=45.255.120.0/22
-add list=CN address=45.255.124.0/22
 add list=CN address=45.255.136.0/22
 add list=CN address=45.255.140.0/22
 add list=CN address=45.255.144.0/22
