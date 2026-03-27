@@ -4058,6 +4058,9 @@ add list=CN address=119.42.248.0/24
 add list=CN address=119.42.250.0/23
 add list=CN address=119.42.250.0/24
 add list=CN address=119.42.251.0/24
+add list=CN address=119.42.252.0/22
+add list=CN address=119.42.252.0/23
+add list=CN address=119.42.254.0/23
 add list=CN address=119.44.0.0/18
 add list=CN address=119.44.128.0/17
 add list=CN address=119.44.64.0/18
