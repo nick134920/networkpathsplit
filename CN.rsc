@@ -9308,7 +9308,10 @@ add list=CN address=8.128.104.0/22
 add list=CN address=8.128.108.0/22
 add list=CN address=8.128.32.0/19
 add list=CN address=8.128.32.0/20
+add list=CN address=8.128.4.0/22
+add list=CN address=8.128.4.0/23
 add list=CN address=8.128.48.0/20
+add list=CN address=8.128.6.0/23
 add list=CN address=8.128.64.0/20
 add list=CN address=8.128.64.0/21
 add list=CN address=8.128.72.0/21
