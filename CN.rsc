@@ -8893,6 +8893,12 @@ add list=CN address=47.118.128.0/17
 add list=CN address=47.118.144.0/20
 add list=CN address=47.118.144.0/24
 add list=CN address=47.118.145.0/24
+add list=CN address=47.118.146.0/24
+add list=CN address=47.118.147.0/24
+add list=CN address=47.118.148.0/24
+add list=CN address=47.118.149.0/24
+add list=CN address=47.118.150.0/24
+add list=CN address=47.118.151.0/24
 add list=CN address=47.118.160.0/20
 add list=CN address=47.118.161.0/24
 add list=CN address=47.118.162.0/24
