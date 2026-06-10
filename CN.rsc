@@ -3851,7 +3851,6 @@ add list=CN address=118.144.0.0/14
 add list=CN address=118.178.0.0/16
 add list=CN address=118.178.0.0/17
 add list=CN address=118.178.128.0/17
-add list=CN address=118.178.213.0/24
 add list=CN address=118.180.0.0/14
 add list=CN address=118.184.0.0/17
 add list=CN address=118.184.128.0/17
