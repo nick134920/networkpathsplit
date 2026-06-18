@@ -3420,7 +3420,6 @@ add list=CN address=110.75.192.0/19
 add list=CN address=110.75.224.0/19
 add list=CN address=110.75.227.0/24
 add list=CN address=110.75.228.0/23
-add list=CN address=110.75.228.0/24
 add list=CN address=110.75.230.0/24
 add list=CN address=110.75.233.0/24
 add list=CN address=110.75.235.0/24
