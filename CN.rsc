@@ -5800,6 +5800,12 @@ add list=CN address=203.107.117.0/24
 add list=CN address=203.107.118.0/23
 add list=CN address=203.107.118.0/24
 add list=CN address=203.107.119.0/24
+add list=CN address=203.107.120.0/24
+add list=CN address=203.107.121.0/24
+add list=CN address=203.107.122.0/24
+add list=CN address=203.107.123.0/24
+add list=CN address=203.107.124.0/24
+add list=CN address=203.107.125.0/24
 add list=CN address=203.107.13.0/24
 add list=CN address=203.107.20.0/24
 add list=CN address=203.107.21.0/24
