@@ -5793,6 +5793,10 @@ add list=CN address=203.105.128.0/19
 add list=CN address=203.105.96.0/19
 add list=CN address=203.107.0.0/17
 add list=CN address=203.107.1.0/24
+add list=CN address=203.107.112.0/22
+add list=CN address=203.107.112.0/23
+add list=CN address=203.107.112.0/24
+add list=CN address=203.107.114.0/23
 add list=CN address=203.107.116.0/22
 add list=CN address=203.107.116.0/23
 add list=CN address=203.107.116.0/24
