@@ -9482,6 +9482,7 @@ add list=CN address=8.160.0.0/16
 add list=CN address=8.161.0.0/16
 add list=CN address=8.162.0.0/19
 add list=CN address=8.162.0.0/20
+add list=CN address=8.162.112.0/20
 add list=CN address=8.162.16.0/20
 add list=CN address=8.162.32.0/19
 add list=CN address=8.162.32.0/20
@@ -9489,6 +9490,8 @@ add list=CN address=8.162.48.0/20
 add list=CN address=8.162.64.0/19
 add list=CN address=8.162.64.0/20
 add list=CN address=8.162.80.0/20
+add list=CN address=8.162.96.0/19
+add list=CN address=8.162.96.0/20
 add list=CN address=8.163.0.0/16
 add list=CN address=8.163.0.0/17
 add list=CN address=8.163.128.0/17
