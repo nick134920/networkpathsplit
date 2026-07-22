@@ -8873,6 +8873,7 @@ add list=CN address=47.109.0.0/23
 add list=CN address=47.110.0.0/15
 add list=CN address=47.110.0.0/16
 add list=CN address=47.111.0.0/16
+add list=CN address=47.112.0.0/12
 add list=CN address=47.112.0.0/15
 add list=CN address=47.112.0.0/16
 add list=CN address=47.113.0.0/16
