@@ -4747,6 +4747,7 @@ add list=CN address=160.22.244.0/23
 add list=CN address=160.22.246.0/23
 add list=CN address=160.22.58.0/23
 add list=CN address=160.22.82.0/23
+add list=CN address=160.236.148.0/23
 add list=CN address=160.236.78.0/23
 add list=CN address=160.25.10.0/23
 add list=CN address=160.25.12.0/23
