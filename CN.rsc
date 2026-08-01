@@ -3330,6 +3330,7 @@ add list=CN address=106.108.0.0/14
 add list=CN address=106.11.0.0/16
 add list=CN address=106.11.0.0/19
 add list=CN address=106.11.1.0/24
+add list=CN address=106.11.100.0/22
 add list=CN address=106.11.128.0/20
 add list=CN address=106.11.144.0/20
 add list=CN address=106.11.160.0/20
@@ -3355,6 +3356,8 @@ add list=CN address=106.11.40.0/21
 add list=CN address=106.11.48.0/21
 add list=CN address=106.11.56.0/21
 add list=CN address=106.11.64.0/19
+add list=CN address=106.11.96.0/21
+add list=CN address=106.11.96.0/22
 add list=CN address=106.112.0.0/13
 add list=CN address=106.12.0.0/15
 add list=CN address=106.120.0.0/13
