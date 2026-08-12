@@ -5820,6 +5820,7 @@ add list=CN address=203.107.123.0/24
 add list=CN address=203.107.124.0/24
 add list=CN address=203.107.125.0/24
 add list=CN address=203.107.13.0/24
+add list=CN address=203.107.2.0/24
 add list=CN address=203.107.20.0/24
 add list=CN address=203.107.21.0/24
 add list=CN address=203.107.22.0/24
