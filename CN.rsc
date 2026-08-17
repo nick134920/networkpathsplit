@@ -9361,7 +9361,6 @@ add list=CN address=8.134.240.0/23
 add list=CN address=8.134.242.0/23
 add list=CN address=8.134.244.0/23
 add list=CN address=8.134.246.0/23
-add list=CN address=8.134.251.0/24
 add list=CN address=8.135.0.0/16
 add list=CN address=8.135.0.0/17
 add list=CN address=8.135.128.0/17
