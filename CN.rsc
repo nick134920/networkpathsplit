@@ -5857,6 +5857,7 @@ add list=CN address=203.107.61.0/24
 add list=CN address=203.107.62.0/23
 add list=CN address=203.107.62.0/24
 add list=CN address=203.107.63.0/24
+add list=CN address=203.107.70.0/24
 add list=CN address=203.107.72.0/24
 add list=CN address=203.107.73.0/24
 add list=CN address=203.107.74.0/24
