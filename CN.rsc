@@ -8026,6 +8026,7 @@ add list=CN address=43.240.72.0/22
 add list=CN address=43.240.76.0/22
 add list=CN address=43.240.84.0/22
 add list=CN address=43.241.0.0/22
+add list=CN address=43.241.100.0/23
 add list=CN address=43.241.112.0/22
 add list=CN address=43.241.12.0/22
 add list=CN address=43.241.16.0/22
