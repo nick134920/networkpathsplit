@@ -4549,7 +4549,6 @@ add list=CN address=140.205.128.0/18
 add list=CN address=140.205.192.0/18
 add list=CN address=140.205.32.0/19
 add list=CN address=140.205.64.0/18
-add list=CN address=140.205.76.0/24
 add list=CN address=140.206.0.0/15
 add list=CN address=140.210.0.0/17
 add list=CN address=140.210.128.0/17
