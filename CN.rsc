@@ -8629,6 +8629,7 @@ add list=CN address=45.251.216.0/22
 add list=CN address=45.251.220.0/22
 add list=CN address=45.251.224.0/22
 add list=CN address=45.251.240.0/22
+add list=CN address=45.251.248.0/23
 add list=CN address=45.251.52.0/22
 add list=CN address=45.251.8.0/22
 add list=CN address=45.251.84.0/22
