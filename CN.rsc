@@ -8389,6 +8389,7 @@ add list=CN address=45.117.8.0/22
 add list=CN address=45.119.104.0/22
 add list=CN address=45.119.116.0/22
 add list=CN address=45.119.232.0/22
+add list=CN address=45.119.42.0/23
 add list=CN address=45.119.52.0/22
 add list=CN address=45.119.60.0/22
 add list=CN address=45.119.64.0/22
