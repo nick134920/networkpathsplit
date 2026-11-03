@@ -8971,6 +8971,9 @@ add list=CN address=47.122.96.0/20
 add list=CN address=47.123.0.0/16
 add list=CN address=47.123.0.0/17
 add list=CN address=47.123.128.0/17
+add list=CN address=47.124.0.0/16
+add list=CN address=47.124.0.0/17
+add list=CN address=47.124.128.0/17
 add list=CN address=47.92.0.0/14
 add list=CN address=47.92.0.0/15
 add list=CN address=47.94.0.0/15
@@ -9533,6 +9536,9 @@ add list=CN address=8.168.128.0/17
 add list=CN address=8.169.0.0/16
 add list=CN address=8.169.0.0/17
 add list=CN address=8.169.128.0/17
+add list=CN address=8.170.0.0/15
+add list=CN address=8.170.0.0/16
+add list=CN address=8.171.0.0/16
 add list=CN address=8.176.0.0/19
 add list=CN address=8.176.0.0/20
 add list=CN address=8.176.112.0/20
