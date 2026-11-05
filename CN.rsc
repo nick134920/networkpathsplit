@@ -9554,6 +9554,7 @@ add list=CN address=8.176.64.0/20
 add list=CN address=8.176.80.0/20
 add list=CN address=8.176.96.0/19
 add list=CN address=8.176.96.0/20
+add list=CN address=8.176.96.0/24
 add list=CN address=81.68.0.0/14
 add list=CN address=82.156.0.0/15
 add list=CN address=94.191.0.0/17
