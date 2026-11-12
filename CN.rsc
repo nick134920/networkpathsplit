@@ -4560,6 +4560,7 @@ add list=CN address=140.250.0.0/16
 add list=CN address=140.255.0.0/16
 add list=CN address=140.75.0.0/16
 add list=CN address=141.229.14.0/23
+add list=CN address=141.229.20.0/23
 add list=CN address=142.86.0.0/16
 add list=CN address=143.64.0.0/16
 add list=CN address=144.0.0.0/16
